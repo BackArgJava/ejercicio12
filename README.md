@@ -1,2 +1,3 @@
 # ejercicio12
-Ejercicio en proceso, da error en la ejecucion 
+Se puede accerder desde 2 usuarios
+
